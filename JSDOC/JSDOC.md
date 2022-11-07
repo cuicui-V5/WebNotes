@@ -1,0 +1,7 @@
+# JSDOC
+
+/\*\*
+
+@type {HTMLElement} img
+
+\*/

@@ -1,0 +1,13 @@
+# JSDOC
+
+```
+/**
+
+  @type {HTMLElement} img
+
+  */
+
+
+```
+
+‍
