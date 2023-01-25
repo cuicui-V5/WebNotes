@@ -1,3 +1,9 @@
+---
+title: XMLHttpRequest level 2
+date: 2022-08-17T15:58:10Z
+lastmod: 2022-08-19T14:38:15Z
+---
+
 # XMLHttpRequest level 2
 
 # 旧版 xhr 的缺点

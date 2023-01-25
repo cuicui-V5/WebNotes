@@ -1,3 +1,9 @@
+---
+title: location对象
+date: 2022-07-17T21:34:35Z
+lastmod: 2022-07-17T21:34:40Z
+---
+
 # location对象
 
 # location对象

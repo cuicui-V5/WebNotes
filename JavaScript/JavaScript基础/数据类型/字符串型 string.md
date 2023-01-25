@@ -1,3 +1,9 @@
+---
+title: 字符串型 string
+date: 2022-07-17T21:19:07Z
+lastmod: 2022-07-17T21:19:13Z
+---
+
 # 字符串型 string
 
 ## 字符串型 string

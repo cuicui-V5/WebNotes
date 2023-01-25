@@ -1,3 +1,9 @@
+---
+title: SQL
+date: 2022-09-04T13:46:44Z
+lastmod: 2022-09-04T14:43:22Z
+---
+
 # SQL
 
 什么是 SQL( Structured Query Language ) 是结构化查询语音, 专门用来访问和处理数据库的编程语言, 能够让我们已变成的形式, 操作数据库里面的数据

@@ -1,3 +1,9 @@
+---
+title: String 方法
+date: 2022-08-03T10:08:45Z
+lastmod: 2022-08-03T10:21:19Z
+---
+
 # String 方法
 
 # startsWith()和endsWith()方法

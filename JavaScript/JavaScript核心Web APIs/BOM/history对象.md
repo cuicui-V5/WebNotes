@@ -1,3 +1,9 @@
+---
+title: history对象
+date: 2022-07-17T21:33:17Z
+lastmod: 2022-07-17T21:33:57Z
+---
+
 # history对象
 
 window给我们提供了一个history对象, 与浏览器历史记录进行交互, 该对象包含用户访问过的url

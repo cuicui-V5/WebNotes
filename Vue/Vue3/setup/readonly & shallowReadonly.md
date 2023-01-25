@@ -1,3 +1,9 @@
+---
+title: readonly &amp; shallowReadonly
+date: 2022-11-04T13:57:52Z
+lastmod: 2022-11-04T14:16:16Z
+---
+
 # readonly & shallowReadonly
 
 ```js

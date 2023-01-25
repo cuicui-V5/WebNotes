@@ -1,3 +1,9 @@
+---
+title: DOM
+date: 2022-07-17T21:24:16Z
+lastmod: 2022-07-17T21:24:34Z
+---
+
 # DOM
 
 # DOM简介
@@ -45,7 +51,7 @@ DOM操作,我们主要针对元素的操作, 主要有创建, 增, 删, 改, 查
 
 主要修改dom的元素属性, 元素的内容, 属性, 表单的值等
 
-* 修改元素属性: src, href , tittle等
+* 修改元素属性: src, href , title等
 * 修改普通元素内容: innerHTML, innerText
 * 修改表单元素: value , type, disable等
 * 修改元素样式: style, className

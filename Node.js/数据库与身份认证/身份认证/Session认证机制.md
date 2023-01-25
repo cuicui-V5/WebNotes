@@ -1,3 +1,9 @@
+---
+title: Session认证机制
+date: 2022-09-06T09:34:30Z
+lastmod: 2022-09-25T15:39:58Z
+---
+
 # Session认证机制
 
 # HTTP协议的无状态性

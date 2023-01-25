@@ -1,3 +1,9 @@
+---
+title: vuex基本使用
+date: 2022-10-22T16:42:50Z
+lastmod: 2022-11-16T09:25:09Z
+---
+
 # vuex基本使用
 
 创建文件 `src/store/index.js`​
@@ -103,7 +109,7 @@ export default new Vuex.Store({
 
 # getters的使用
 
-当`state`​中的数据需要发加工后在使用时, 可以使用`getters`​加工, 类似 `computed`​
+当`state`​中的数据需要加工后在使用时, 可以使用`getters`​加工, 类似 `computed`​
 
 在 `store/index/js ​`​中添加 `getters ​`​配置项
 

@@ -1,3 +1,9 @@
+---
+title: for in 和for of
+date: 2022-07-19T13:04:33Z
+lastmod: 2022-07-19T13:06:15Z
+---
+
 # for in 和for of
 
 这两种循环主要用于对象

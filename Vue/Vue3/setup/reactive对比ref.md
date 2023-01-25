@@ -1,3 +1,9 @@
+---
+title: reactive对比ref
+date: 2022-11-02T15:19:08Z
+lastmod: 2022-11-02T15:23:58Z
+---
+
 # reactive对比ref
 
 # 从定义数据角度对比
@@ -11,7 +17,7 @@
 
 # 从原理角度对比
 
-* ​`ref` ​通过 `O`​`bject.defineProperty()`​ 的 `get` ​和 `set` ​实现响应式(数据劫持)
+* ​`ref` ​通过 `O``bject.defineProperty()`​ 的 `get` ​和 `set` ​实现响应式(数据劫持)
 * ​`reactive` ​通过使用 `Proxy ​` ​来实现响应式, 并通过 `Reflect` ​操作源对象内部的数据
 
 ‍

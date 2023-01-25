@@ -1,3 +1,9 @@
+---
+title: Promise
+date: 2022-09-28T13:57:55Z
+lastmod: 2022-09-29T14:58:59Z
+---
+
 # Promise
 
 # 回调地狱

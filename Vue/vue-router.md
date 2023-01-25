@@ -1,3 +1,9 @@
+---
+title: vue-router
+date: 2022-10-25T14:55:22Z
+lastmod: 2022-10-26T10:05:19Z
+---
+
 # vue-router
 
 vue-router 是 vue 的一个插件库, 专门用来实现 SPA 应用

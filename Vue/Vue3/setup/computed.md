@@ -1,3 +1,9 @@
+---
+title: computed
+date: 2022-11-03T11:05:50Z
+lastmod: 2022-11-03T11:09:13Z
+---
+
 # computed
 
 在 Vue3 中计算属性需要先引用后在使用,

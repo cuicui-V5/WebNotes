@@ -1,3 +1,9 @@
+---
+title: Vue router 基本使用
+date: 2022-10-26T10:06:09Z
+lastmod: 2022-10-26T17:25:51Z
+---
+
 # Vue router 基本使用
 
 ## 安装

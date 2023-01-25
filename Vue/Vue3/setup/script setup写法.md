@@ -1,3 +1,9 @@
+---
+title: &lt;script setup&gt;写法
+date: 2022-11-05T16:13:53Z
+lastmod: 2022-12-28T00:35:30Z
+---
+
 # <script setup>写法
 
 ```js
@@ -33,12 +39,26 @@ let person = reactive({
        <AppSon :p="person" @hello="handler"></AppSon>
 
 // 子组件
-	defineProps(["p"]);
+	const props = defineProps(["p","q"]);
+	注意: 这里不能直接使用结构赋值, 需要使用toRefs
+ 	const {p,q} = toRefs(props)
 在模板中可以直接使用p这个变量
 
 ```
 
-‍
+​`defineProps`​使用TS类型标注
+
+```ts
+const props = defineProps<{
+  foo: string
+  bar?: number
+}>()
+
+const emit = defineEmits<{
+  (e: 'change', id: number): void
+  (e: 'update', value: string): void
+}>()
+```
 
 # 使用`defineEmits`​
 

@@ -1,3 +1,9 @@
+---
+title: JavaScript基础
+date: 2022-07-17T20:47:16Z
+lastmod: 2022-07-17T20:48:03Z
+---
+
 # JavaScript基础
 
 Javascript是一种运行于客户端的脚本语言

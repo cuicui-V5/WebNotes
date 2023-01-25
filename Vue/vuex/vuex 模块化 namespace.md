@@ -1,3 +1,9 @@
+---
+title: vuex 模块化 namespace
+date: 2022-10-23T13:57:20Z
+lastmod: 2022-10-25T10:50:10Z
+---
+
 # vuex 模块化 namespace
 
 修改 `store/index.js`​

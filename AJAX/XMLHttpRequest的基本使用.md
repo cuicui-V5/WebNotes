@@ -1,3 +1,9 @@
+---
+title: XMLHttpRequest的基本使用
+date: 2022-08-16T14:28:02Z
+lastmod: 2022-10-27T10:39:40Z
+---
+
 # XMLHttpRequest的基本使用
 
 # 什么是XMLHttpRequest

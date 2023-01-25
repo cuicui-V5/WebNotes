@@ -1,3 +1,9 @@
+---
+title: 布尔型 Boolean
+date: 2022-07-17T21:18:54Z
+lastmod: 2022-07-17T21:19:03Z
+---
+
 # 布尔型 Boolean
 
 ## 布尔型 Boolean

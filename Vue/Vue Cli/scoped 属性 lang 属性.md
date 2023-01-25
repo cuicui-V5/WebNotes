@@ -1,3 +1,9 @@
+---
+title: scoped 属性 lang 属性
+date: 2022-10-12T14:35:17Z
+lastmod: 2022-10-12T14:38:10Z
+---
+
 # scoped 属性 lang 属性
 
 scoped 属性:   让样式在局部生效, 防止冲突

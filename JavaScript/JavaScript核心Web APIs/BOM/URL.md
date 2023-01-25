@@ -1,3 +1,9 @@
+---
+title: URL
+date: 2022-07-17T21:34:20Z
+lastmod: 2022-10-27T10:42:52Z
+---
+
 # URL
 
 统一资源定位符(Uniform Resource Locator:URL)  url是互联网上标准资源的地址, 互联网上每个文件都有自己的URL, 它包含的信息指出文件的位置以及浏览器应该怎么处理它.

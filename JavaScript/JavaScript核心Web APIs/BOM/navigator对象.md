@@ -1,3 +1,9 @@
+---
+title: navigator对象
+date: 2022-07-17T21:34:04Z
+lastmod: 2022-07-17T21:34:17Z
+---
+
 # navigator对象
 
 navigator对象包含有关浏览器的信息, 他有很多属性, 我们最常用的是userAgent, 该属性可以返回由客户机发送的user-agent头部的值

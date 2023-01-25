@@ -1,3 +1,9 @@
+---
+title: vuex
+date: 2022-10-21T15:21:59Z
+lastmod: 2022-10-22T15:22:14Z
+---
+
 # vuex
 
 # 什么是vuex

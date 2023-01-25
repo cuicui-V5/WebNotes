@@ -1,3 +1,9 @@
+---
+title: hook
+date: 2022-11-03T21:46:33Z
+lastmod: 2022-11-04T09:22:22Z
+---
+
 # hook
 
 ​`hook` ​本质是一个函数, 把 `setup` ​函数中使用的 composition API 进行了封装

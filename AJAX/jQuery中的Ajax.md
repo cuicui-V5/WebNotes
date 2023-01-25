@@ -1,3 +1,9 @@
+---
+title: jQuery中的Ajax
+date: 2022-07-20T10:46:36Z
+lastmod: 2022-08-11T10:33:06Z
+---
+
 # jQuery中的Ajax
 
 P浏览器中提供的XMLHttpRequest用法比较复杂, 所以jQuery对XMLHttpRequest进行了封装,提供了一系列Ajax相关的函数, 极大地降低了Ajax的使用难度

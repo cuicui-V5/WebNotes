@@ -1,3 +1,9 @@
+---
+title: props 配置项
+date: 2022-10-11T20:39:14Z
+lastmod: 2022-10-14T11:04:15Z
+---
+
 # props 配置项
 
 # props 配置项

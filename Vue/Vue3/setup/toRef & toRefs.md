@@ -1,3 +1,9 @@
+---
+title: toRef &amp; toRefs
+date: 2022-11-04T10:22:51Z
+lastmod: 2022-11-04T10:28:08Z
+---
+
 # toRef & toRefs
 
 *基于响应式对象上的一个属性，创建一个对应的 ref。这样创建的 ref 与其源属性保持同步：改变源属性的值将更新 ref 的值，反之亦然。*

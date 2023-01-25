@@ -1,3 +1,9 @@
+---
+title: customRef
+date: 2022-11-04T16:21:40Z
+lastmod: 2022-11-04T16:24:33Z
+---
+
 # customRef
 
 创建一个自定义的ref , 并对其依赖项跟踪和更新触发进行显示控制

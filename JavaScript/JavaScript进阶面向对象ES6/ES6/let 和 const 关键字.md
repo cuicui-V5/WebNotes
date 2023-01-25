@@ -1,3 +1,9 @@
+---
+title: let 和 const 关键字
+date: 2022-08-01T20:48:59Z
+lastmod: 2022-08-02T14:36:23Z
+---
+
 # let 和 const 关键字
 
 ![Snipaste_2022-08-01_20-48-47.png](assets/Snipaste_2022-08-01_20-48-47-20220801204908-o2goo1g.png)

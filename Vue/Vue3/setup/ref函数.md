@@ -1,3 +1,9 @@
+---
+title: ref函数
+date: 2022-11-01T20:39:32Z
+lastmod: 2022-11-01T20:47:07Z
+---
+
 # ref函数
 
 作用: 定义一个响应式的数据
@@ -6,7 +12,7 @@
 
 ​`const xxx = ref(initVal)`​
 
-​`ref`​可以创建一个包含响应式数据的==引用对象==​,​ (reference对象, 简称ref对象)
+​`ref`​可以创建一个包含响应式数据的==引用对象==, (reference对象, 简称ref对象)
 
 操作数据: `xxx.value`
 

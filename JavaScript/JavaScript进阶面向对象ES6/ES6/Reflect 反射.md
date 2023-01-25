@@ -1,3 +1,9 @@
+---
+title: Reflect 反射
+date: 2022-11-02T14:53:43Z
+lastmod: 2022-11-02T14:54:34Z
+---
+
 # Reflect 反射
 
 通过反射可以取代直接调用Object上的方法

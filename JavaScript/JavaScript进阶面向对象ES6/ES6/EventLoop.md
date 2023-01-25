@@ -1,3 +1,9 @@
+---
+title: EventLoop
+date: 2022-09-29T15:03:27Z
+lastmod: 2022-09-29T18:10:17Z
+---
+
 # EventLoop
 
 JavaScript 是单线程语言, 也就是说, 同一时间只能执行一件任务

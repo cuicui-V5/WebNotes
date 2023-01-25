@@ -1,3 +1,9 @@
+---
+title: shallowReactive &amp; shallowRef
+date: 2022-11-04T11:13:07Z
+lastmod: 2022-11-04T11:15:47Z
+---
+
 # shallowReactive & shallowRef
 
 ​`shallowReactive`​: 只处理对象最外层的响应式 (浅响应式)

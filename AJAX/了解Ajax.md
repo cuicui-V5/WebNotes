@@ -1,3 +1,9 @@
+---
+title: 了解Ajax
+date: 2022-07-20T10:18:16Z
+lastmod: 2022-07-20T10:34:24Z
+---
+
 # 了解Ajax
 
 # 什么是Ajax

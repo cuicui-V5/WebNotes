@@ -1,3 +1,9 @@
+---
+title: Vue Cli
+date: 2022-10-10T22:30:24Z
+lastmod: 2022-10-11T15:42:08Z
+---
+
 # Vue Cli
 
 [Vue CLI](https://cli.vuejs.org/zh/) 是官方提供的基于 Webpack 的 Vue 工具链,  现在已被 Vite 取代

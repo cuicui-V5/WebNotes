@@ -1,3 +1,9 @@
+---
+title: window对象
+date: 2022-07-17T21:35:33Z
+lastmod: 2022-07-17T21:35:38Z
+---
+
 # window对象
 
 # window对象
